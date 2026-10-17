@@ -1,7 +1,8 @@
 
-# Hello!, I'm Sujith, a Software Develooper👋🏼:
+# Hello!, I'm Sujith
+# Software Developer
 
-🔭 I’m currently a Student<br>👯 I’m looking for for Intern<br>🤝 I’m looking to help startups<br>🌱 I’m currently learning<br>💬 Ask me about tech skills<br>⚡ Serious coding journey<br>
+🤝 I’m looking to help startups<br>💬 Ask me about tech skills<br>⚡ Serious coding journey<br>
 
 
 ## 🌐 Socials:
